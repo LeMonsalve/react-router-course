@@ -1,0 +1,16 @@
+.app-container {
+    padding: 2rem 0;
+    margin: auto;
+}
+
+@media (min-width: 1200px) {
+    .app-container {
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .app-container {
+        max-width: 1400px;
+    }
+}
